@@ -28,20 +28,7 @@ IDE/Tools:-	Spring Tool Suite (STS), IntelliJ, Git, Postman
 - Spring Tool Suite (STS) IDE installed
 - Lombok configured in your IDEInstallation & Setup
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🧑‍💻 Author
-👨‍💻 Pravin Rangari 📧 prangari655@gmail.com
+ Author
+Pravin Rangari 
+prangari655@gmail.com
 
