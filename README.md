@@ -20,7 +20,7 @@ Backend:-	Java, Spring Boot, Spring MVC, Spring Security
 Database:-	MySQL
 Build Tool:-	Maven
 Server:-	Apache Tomcat
-IDE/Tools:-	Spring Tool Suite (STS), IntelliJ, Git, Postman
+IDE/Tools:-	Spring Tool Suite (STS), Eclipse, Git, Postman
 
 # Installation & Setup
 - JDK 8 installed
